@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Strings that go into the spinner -->
+    <string-array name="sort_method_array">
+        <item>@string/sort_by_popularity_title</item>
+        <item>@string/sort_by_rating_title</item>
+    </string-array>
+
+    <!-- Strings that get passed in as part of api query -->
+    <string-array name="sort_query_values">
+        <item>@string/sort_popularity_desc</item>
+        <item>@string/sort_rating_desc</item>
+    </string-array>
+</resources>
